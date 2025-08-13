@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 649243066e2943a057b85179c4bb999694e0a6fb olivier picaud <picaud olivier> 1755101677 +0200	commit (initial): Iinital project structure for energy dashboard
+649243066e2943a057b85179c4bb999694e0a6fb 0000000000000000000000000000000000000000 olivier picaud <picaud olivier> 1755101842 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 649243066e2943a057b85179c4bb999694e0a6fb olivier picaud <picaud olivier> 1755101842 +0200	Branch: renamed refs/heads/master to refs/heads/main
+649243066e2943a057b85179c4bb999694e0a6fb eeaded8c5f4dc3bcc81dbee80a983aa6579018ea olivier picaud <picaud olivier> 1755103695 +0200	commit: Add scaffold files and README template
